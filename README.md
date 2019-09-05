@@ -3,4 +3,4 @@
 <h3 align="center">Predicting the Future Value of College Basketball Players</h3>
 
 
-[final paper](finalPaper.pdf)
+[final paper](finalProject/finalPaper.pdf)
